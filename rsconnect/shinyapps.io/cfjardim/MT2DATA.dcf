@@ -1,0 +1,13 @@
+name: MT2DATA
+title: MT2DATA
+username:
+account: cfjardim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6210453
+bundleId: 5860647
+url: https://cfjardim.shinyapps.io/MT2DATA/
+when: 1651503273.25169
+lastSyncTime: 1651503273.25169
+asMultiple: FALSE
+asStatic: FALSE
